@@ -279,7 +279,7 @@ async def on_message(message):
         #await message.channel.send("정보)) 용혁키 : 158cm")
  
 
-client.run('Njk2Mjg0NTAyNTUyNjA4Nzkw.XomfiA.2nMJy1jhJDrFriGEu3W1qcnkJUw')
+client.run('토 큰')
 
 
 
